@@ -34,9 +34,7 @@ p {
 }
 
 img{
-    display: block;
-    margin:auto;
     border-radius: 50%;
-    height:auto;
-    padding: 20px;
+    height:200px;
+    width:200px;
 }   
