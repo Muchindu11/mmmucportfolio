@@ -2,10 +2,8 @@ body {
     font-family: 'arial, georgia, sans-serif;
     text-align: center;
     background-color: #f0f0f0;
-    width: 700px;
+    width: auto;
     margin: auto;
-    padding: 20px;
-    
 }
 
 h1 {
@@ -25,8 +23,6 @@ h2 {
     text-align: center;
     display: inline;
     border-radius; 15px;
-    margin: auto;
-    padding: 20px;
 }
 
 p {
